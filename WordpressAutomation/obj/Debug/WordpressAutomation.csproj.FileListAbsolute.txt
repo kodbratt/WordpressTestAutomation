@@ -1,0 +1,10 @@
+C:\Users\Alexander\Documents\Visual Studio 2017\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\WordpressAutomation.dll
+C:\Users\Alexander\Documents\Visual Studio 2017\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\WordpressAutomation.pdb
+C:\Users\Alexander\Documents\Visual Studio 2017\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\WebDriver.dll
+C:\Users\Alexander\Documents\Visual Studio 2017\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\Alexander\Documents\Visual Studio 2017\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\WebDriver.xml
+C:\Users\Alexander\Documents\Visual Studio 2017\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\Alexander\Documents\Visual Studio 2017\Projects\WordpressAutomation\WordpressAutomation\obj\Debug\WordpressAutomation.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2017\Projects\WordpressAutomation\WordpressAutomation\obj\Debug\WordpressAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\Visual Studio 2017\Projects\WordpressAutomation\WordpressAutomation\obj\Debug\WordpressAutomation.dll
+C:\Users\Alexander\Documents\Visual Studio 2017\Projects\WordpressAutomation\WordpressAutomation\obj\Debug\WordpressAutomation.pdb
